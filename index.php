@@ -26,8 +26,7 @@
 //   - Conformité W3C par ajout de <li>...</li> sur les variables
 //     $aliasContents et $projectContents si vides
 
-//[modif oto] - Pour supprimer niveau localhost dans les url 
-$suppress_localhost = false;
+//[modif oto] - Pour supprimer niveau localhost dans les;
 // avec modification de la ligne
 //$projectContents .= '<li><a href="'.$file.'">'.$file.'</a></li>';
 //Par :
